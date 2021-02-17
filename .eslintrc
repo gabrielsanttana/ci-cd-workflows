@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "stantard",
+    "plugin:prettier/recommended"
+  ]
+}
